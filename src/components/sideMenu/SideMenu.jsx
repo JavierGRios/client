@@ -1,8 +1,10 @@
 import React from 'react';
 
+
 function SideMenu(){
 
     return(
+		
         <ul className="navbar-nav bg-gradient-dark sidebar sidebar-dark accordion" id="accordionSidebar">
 
 			
